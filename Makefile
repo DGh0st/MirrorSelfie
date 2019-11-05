@@ -1,5 +1,5 @@
 export ARCHS = armv7 arm64 arm64e
-export TARGET = iphone:clang:8.1:9.0
+export TARGET = iphone:clang:latest:9.0
 
 INSTALL_TARGET_PROCESSES = com.apple.camera
 
